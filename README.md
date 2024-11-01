@@ -7,3 +7,7 @@ How to install
     
 2. unzip to “C:\Users\[ **Your username** ]\Documents\KoeiTecmo\SAN8R\ADD_FACE”
 3. done
+
+# previews:
+## characters
+10. [https://www.pixiv.net/artworks/123892051]
