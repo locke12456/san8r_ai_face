@@ -10,4 +10,4 @@ How to install
 
 # previews:
 ## characters
-10. [https://www.pixiv.net/artworks/123892051]
+9. [https://www.pixiv.net/artworks/123892051]
